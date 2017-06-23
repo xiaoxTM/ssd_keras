@@ -1,4 +1,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+
 Code borrowed [from ssd_keras](https://github.com/rykov8/ssd_keras) and plant to Keras 2
 
 # A port of [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd) to [Keras](https://keras.io) framework.
